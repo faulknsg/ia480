@@ -1,0 +1,30 @@
+# Flight Price Prediction Analysis
+
+## Data Source
+- My data source was from Kaggle. My dataset shows predictions of flight prices.
+
+## Research Question
+- **Research Question:** “How does flight class affect the price of a flight?”
+
+## Objective
+- The objective of my model was to highlight how different variables such as:
+  - Flight class
+  - Flight duration
+  - How many days left before the flight 
+  - Affect the price of flights.
+
+## Target Variable & Key Predictor
+- **Target Variable:** Price  
+- **Key Predictor:** Flight Class
+
+## Data Cleaning
+- To clean my dataset, I:
+  - Removed missing values. 
+  - Dropped unnecessary variables. 
+
+## Model Training
+- To train the dataset, we used the default settings on canvas. 
+
+## Model Performance
+- The model performed well and provided clear visualizations of the dataset. 
+- The model displayed an **R² of 98.415%**.
